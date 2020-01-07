@@ -1,0 +1,1 @@
+This project has been intended to conduct a detailed analysis of the factors affecting federal employee satisfaction in 2018 and how it has differed from 2015. The data necessary for this project has been obtained from the official website of the U.S. Office of Personal Management in csv format. It contains the results of the annual Employee Viewpoint Survey.
